@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [raihua.github.io](raihua.github.io)
 
-- ⚡ Fun fact **I use vim BTW. I have always wanted to say this for fun.**
+- ⚡ Fun fact **1 lie, 1 truth: I have once accidentally mistaken salt for sugar in coffee  or I have driven on the wrong side of the road until someone honked at me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
