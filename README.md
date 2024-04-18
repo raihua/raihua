@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raihua.dev@gmail.com**
 
-- 📄 Know about my experiences [raihua.github.io](raihua.github.io)
+- 📄 Know about my experiences [raihua.github.io](https://www.raihua.github.io)
 
 - ⚡ Fun fact **1 lie, 1 truth: I have once accidentally mistaken salt for sugar in coffee  or I have driven on the wrong side of the road until someone honked at me**
 
