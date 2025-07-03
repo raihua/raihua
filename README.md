@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peter Trinh</h1>
 <h3 align="center">A passionate software engineer student from Adelaide, South Australia</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel, Java, Data Stuctures and Algorithms**
+- 🌱 I’m currently learning ** C# and ASP.net**
 
-- 💬 Ask me about **react, software design, web development**
+- 💬 Ask me about **react, software design and architecture, web development**
 
 - 📫 How to reach me **raihua.dev@gmail.com**
 
