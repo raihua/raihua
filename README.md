@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Trinh</h1>
 <h3 align="center">A passionate software engineer student from Adelaide, South Australia</h3>
 
-- 🌱 I’m constantly improving my knowledge ** C# and ASP.net**
+- 🌱 I’m constantly improving my knowledge in C# and ASP.net.
 
 - 💬 Ask me about **react, software design and architecture, web development**
 
